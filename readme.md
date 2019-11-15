@@ -1,7 +1,9 @@
-# An elementary os theme for Firefox / Un theme elementary pour Firefox
+# An elementary os theme for Firefox 
 
 In this version, all buttons are moved to the right (windows layout or ubuntu layout)
 tested in dark mode too. 
+
+# Un theme elementary pour Firefox
 Dans cette version les boutons de fenêtre sont placés à droite comme sur windows ou ubuntu (Variante Dark possible). 
 <img src="firefox layout windows.png"/>
 
@@ -9,14 +11,15 @@ Dans cette version les boutons de fenêtre sont placés à droite comme sur wind
 
 ## Thanks /Remerciements
 
-Thanks to [Harvey Cabaguio](https://github.com/harveycabaguio/firefox-elementary-theme) for 
+(En) Thanks to [Harvey Cabaguio](https://github.com/harveycabaguio/firefox-elementary-theme) for 
 inspiring me and for his great elementary's theme.
 
-Merci à [Harvey Cabaguio](https://github.com/harveycabaguio/firefox-elementary-theme)  dont vous pouvez 
+(Fr) Merci à [Harvey Cabaguio](https://github.com/harveycabaguio/firefox-elementary-theme)  dont vous pouvez 
 tester le thème elementary standart (bouton fermer à gauche, agrandir à droite).
 
 ## Install / Installation
 (En)
+
 **Firefox does not support userChrome.css by default. Here are the steps to make it work:**
   1. Load **about:config** in the Firefox address bar. 
   2. Confirm that you will be careful.
