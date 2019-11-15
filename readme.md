@@ -2,9 +2,9 @@
 
 In this version, all buttons are moved to the right (windows layout or ubuntu layout)
 tested in dark mode too. 
+Dans cette version les boutons de fenêtre sont placés à droite comme sur windows ou ubuntu (Variante Dark possible). 
 <img src="firefox layout windows.png"/>
 
-Dans cette version les boutons de fenêtre sont placés à droite comme sur windows ou ubuntu. 
 <img src="firefox dark theme.png"/>
 
 ## Thanks /Remerciements
@@ -12,18 +12,16 @@ Dans cette version les boutons de fenêtre sont placés à droite comme sur wind
 Thanks to [Harvey Cabaguio](https://github.com/harveycabaguio/firefox-elementary-theme) for 
 inspiring me and for his great elementary's theme.
 
-## Install / Installation
+Merci à [Harvey Cabaguio](https://github.com/harveycabaguio/firefox-elementary-theme)  dont vous pouvez 
+tester le thème elementary standart (bouton fermer à gauche, agrandir à droite).
 
+## Install / Installation
+(En)
 **Firefox does not support userChrome.css by default. Here are the steps to make it work:**
   1. Load **about:config** in the Firefox address bar. 
   2. Confirm that you will be careful.
   3. Search for `toolkit.legacyUserProfileCustomizations.stylesheets` using the search at the top.
   4. Toggle the preference by double clicking. True means Firefox supports the CSS files, False that it ignores them.
-
-**Firefox ne prend pas les themes par défaut, pour les activer :**
-  1. Taper **about:config** directement dans la barre d'adresse de Firefox. 
-  2. Confirmez que vous serez attentif à vos modifications.
-  3. Activez le paramètre `toolkit.legacyUserProfileCustomizations.stylesheets` à true.
 
 **To install userChrome.css:**
 
@@ -35,7 +33,14 @@ inspiring me and for his great elementary's theme.
   5. Choose the Windows Layout panel with elementary-tweaks (and Dark mode if you want).
   6. Close and run Firefox.
 
-**Pour installer votre theme userChrome.css:**
+(Fr) 
+
+**Firefox ne prend pas en compte les thèmes par défaut, pour les activer :**
+  1. Taper **about:config** directement dans la barre d'adresse de Firefox. 
+  2. Confirmez que vous serez attentif à vos modifications.
+  3. Activez le paramètre `toolkit.legacyUserProfileCustomizations.stylesheets` à true.
+  
+**Pour installer votre thème userChrome.css:**
   1. Tapez **about:support** directement dans la barre d'adresse de Firefox. 
   2. Ouvrir le dossier Répertoire de profil 
   3. Créez un dossier `chrome` (oui même pour Firefox)
