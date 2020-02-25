@@ -11,10 +11,10 @@ tested in dark mode too.
 
 ## Thanks /Remerciements
 
-(En) Thanks to [Harvey Cabaguio](https://github.com/Zonnev/elementaryos-firefox-theme) for 
+(En) Thanks to Zonnev (https://github.com/Zonnev/elementaryos-firefox-theme) for 
 inspiring me and for his great elementary's theme (Button Close to the left).
 
-(Fr) Merci à [Harvey Cabaguio](https://github.com/Zonnev/elementaryos-firefox-theme) dont vous pouvez 
+(Fr) Merci à Zonnev (https://github.com/Zonnev/elementaryos-firefox-theme) dont vous pouvez 
 tester le thème elementary (bouton fermer à gauche, agrandir à droite).
 
 ## Install / Installation
